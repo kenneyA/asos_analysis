@@ -86,7 +86,7 @@
   <h2 align="center">Brand Strategy Analysis</h2>
   <tr>
     <td width="1440" align="center">
-      <img width="900" alt="Brand Strategy Scatter Plot — Average Price vs Stockout Rate, bubble size = Total Lost Revenue" src="brand_strategy_chart.png" />
+      <img width="900" alt="Brand Strategy Scatter Plot — Average Price vs Stockout Rate, bubble size = Total Lost Revenue" src="[brand_strategy_chart.png](https://res.cloudinary.com/dcqk5bgqe/image/upload/v1773872245/brand_strategy_chart_qdmpme.png)" />
     </td>
   </tr>
   <tr>
